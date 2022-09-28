@@ -1,0 +1,11 @@
+D:\Escritorio\pryMatiasSpBlibioteca\pryMatiasSpBlibioteca\bin\Debug\pryMatiasSpBlibioteca.exe.config
+D:\Escritorio\pryMatiasSpBlibioteca\pryMatiasSpBlibioteca\bin\Debug\pryMatiasSpBlibioteca.exe
+D:\Escritorio\pryMatiasSpBlibioteca\pryMatiasSpBlibioteca\bin\Debug\pryMatiasSpBlibioteca.pdb
+D:\Escritorio\pryMatiasSpBlibioteca\pryMatiasSpBlibioteca\obj\Debug\pryMatiasSpBlibioteca.csproj.AssemblyReference.cache
+D:\Escritorio\pryMatiasSpBlibioteca\pryMatiasSpBlibioteca\obj\Debug\pryMatiasSpBlibioteca.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryMatiasSpBlibioteca\pryMatiasSpBlibioteca\obj\Debug\pryMatiasSpBlibioteca.frmPrincipal.resources
+D:\Escritorio\pryMatiasSpBlibioteca\pryMatiasSpBlibioteca\obj\Debug\pryMatiasSpBlibioteca.Properties.Resources.resources
+D:\Escritorio\pryMatiasSpBlibioteca\pryMatiasSpBlibioteca\obj\Debug\pryMatiasSpBlibioteca.csproj.GenerateResource.cache
+D:\Escritorio\pryMatiasSpBlibioteca\pryMatiasSpBlibioteca\obj\Debug\pryMatiasSpBlibioteca.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryMatiasSpBlibioteca\pryMatiasSpBlibioteca\obj\Debug\pryMatiasSpBlibioteca.exe
+D:\Escritorio\pryMatiasSpBlibioteca\pryMatiasSpBlibioteca\obj\Debug\pryMatiasSpBlibioteca.pdb
